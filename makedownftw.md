@@ -1,5 +1,5 @@
 ---
-layout default
+layout: default
 ---
 
 This is a heading (analagous to an h1)
@@ -17,9 +17,10 @@ Ordered list
 1. this is the first item
 2. this is the second item
 
----
+...
 def hello():
   for i in range(s):
     print("hello from github pages")
-    ---
+...
 
+This is 
